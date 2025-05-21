@@ -38,7 +38,6 @@ A big thank you to my amazing team for their dedication and creativity throughou
 - 👨‍💻 **Omar Khaled** – Frontend & UX ideas  
 - 👩‍💻 **Esraa Mohamed** – Backend logic & database support  
 - 👩‍💻 **Aliaa Mahmoud** – UI design & testing  
-
 Your collaboration made this freelancing platform possible! 🙌
 
 ---
