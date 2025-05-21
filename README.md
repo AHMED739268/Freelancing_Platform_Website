@@ -31,6 +31,15 @@
 
 ---
 
+## 🤝 Credits & Special Thanks
+
+A big thank you to my amazing team for their dedication and creativity throughout this project:
+
+- 👨‍💻 **Omar Khaled** – Frontend & UX ideas  
+- 👩‍💻 **Esraa Mohamed** – Backend logic & database support  
+- 👩‍💻 **Aliaa Mahmoud** – UI design & testing  
+
+Your collaboration made this freelancing platform possible! 🙌
 
 ---
 
